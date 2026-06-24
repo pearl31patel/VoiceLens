@@ -1,0 +1,38 @@
+AGENT: This call may be recorded for quality and training purposes.
+
+AGENT: Thanks for calling PivotPoint Orthopaedics. Part of Pretty Good AI. Am I speaking with Maya?
+
+PATIENT: No, this is Matthew Wells.
+
+AGENT: Thanks, Matthew. Are you calling for yourself or on behalf of someone else today?
+
+PATIENT: I'm calling for myself today.
+
+AGENT: Please provide your date of birth.
+
+PATIENT: October twenty seventh, nineteen ninety seven.
+
+AGENT: Just to confirm, I have your name as Matthew Wells and your date of birth as 10/27/1997. Is that correct? If so, could you please spell your and last name for me?
+
+PATIENT: Yes, that’s correct. M, A, T, T, H, E, W. W, E, L, L, S.
+
+AGENT: Would you like to use your phone number to look up your record? If so, please provide the number you have on file with us. If you're not sure, just let me know.
+
+PATIENT: eight zero five, five five five, zero one four two.
+
+AGENT: I have your phone number as (805) 555-0142, and your date of birth as 10/27/1997. Is that correct?
+
+PATIENT: Yes, that’s correct.
+
+AGENT: I can't proceed further right now, but I can make sure our clinic support team follows up with with you. I'll let them know about this issue. Please hold on a moment.
+
+PATIENT: Sorry, I mean I need to book a visit for a rash.
+
+AGENT: Connecting you to a representative. Please wait.
+
+PATIENT: Okay, thank you.
+
+AGENT: Hello. You've reached the Pretty Good AI test line. Goodbye.
+
+PATIENT: Okay, thank you.
+

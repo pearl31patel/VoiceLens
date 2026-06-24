@@ -1,0 +1,30 @@
+AGENT: This call may be recorded for quality and training purposes.
+
+AGENT: Thanks for calling PivotPoint Orthopedics. Part of Pretty Good AI. Am I speaking with Maya?
+
+PATIENT: No, this is Connor Bennett.
+
+AGENT: Are you calling for yourself today or for someone else?
+
+PATIENT: I'm calling for someone else.
+
+AGENT: Please provide the full name and date of birth of the patient you're calling about.
+
+PATIENT: Connor Bennett, August sixteenth, nineteen eighty two.
+
+AGENT: Just to confirm, I have the patient's name as Connor Bennett and date of birth as August 1982. Is that correct? If so, could you please spell out the first and last name for me?
+
+PATIENT: Yes, that’s correct. C, O, N, N, O, R. B, E, N, N, E, T, T.
+
+AGENT: Would you like to use a phone number to look up the patient's record? If so, please provide the number you have on file with us If you're not sure, just let me know.
+
+PATIENT: eight zero five, five five five, zero one four two.
+
+AGENT: I have the phone number as (805) 555-0142 and the date of birth as 08/16/1982. Is that correct?
+
+PATIENT: Yes, that’s correct.
+
+AGENT: I can't proceed further right now. But I can make sure our clinic support team follows up with you. Would you like me to connect you to our patient support team?
+
+PATIENT: Okay, thank you.
+

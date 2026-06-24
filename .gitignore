@@ -1,0 +1,11 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+test_results_*.txt
+run_all_calls_*.txt
+archive/local_logs/
+data/calls/*/metadata.json
+data/calls/*/events.jsonl

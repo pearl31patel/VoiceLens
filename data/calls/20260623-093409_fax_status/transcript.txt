@@ -1,0 +1,38 @@
+AGENT: This call may be recorded for quality and training purposes.
+
+AGENT: Thanks for calling PivotPoint Orthopedics. Part of Pretty Good AI. Am I speaking with Maya?
+
+PATIENT: No, this is James Coleman.
+
+AGENT: Are you calling for yourself today or for someone else?
+
+PATIENT: I'm calling for myself today.
+
+AGENT: Please provide your date of birth.
+
+PATIENT: May fifth, nineteen eighty one.
+
+AGENT: Just to confirm, can you please spell your first and last name for me?
+
+PATIENT: J, A, M, E, S. C, O, L, E, M, A, N.
+
+AGENT: Would you like to use your phone number to look up your record? If so, please provide the number you have on file with us. If you're not sure, I can confirm your name and date of birth again. Which would you prefer?
+
+PATIENT: eight zero five, five five five, zero one four two.
+
+AGENT: I have your phone number as (805) 555-0142. And your date of birth is 05/05/1981. Is that correct?
+
+PATIENT: Yes, that’s correct.
+
+AGENT: Thanks for confirming.
+
+PATIENT: I'm calling for a fax status request. A cardiology office said they faxed records yesterday.
+
+AGENT: How can I help you today?
+
+PATIENT: I’d like to ask whether a specialist fax was received.
+
+AGENT: I can't proceed further right now, but I can make sure our clinic support team follows up with you. Please hold while I document your request for follow-up.
+
+PATIENT: Okay, thank you.
+

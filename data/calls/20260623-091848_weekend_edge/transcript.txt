@@ -1,0 +1,42 @@
+AGENT: This call may be recorded for quality and training purposes.
+
+AGENT: Thanks for calling PivotPoint Orthopedics. Part of Pretty Good AI. Am I speaking with Maia?
+
+PATIENT: No, this is Tyler Brooks.
+
+AGENT: Are you calling for yourself today or for someone else?
+
+PATIENT: I'm calling for myself today.
+
+AGENT: Please provide your date of birth.
+
+PATIENT: June thirtieth, nineteen ninety.
+
+AGENT: Just to confirm, I have your name as Tyler Brooks.
+
+PATIENT: Yes, I am Tyler.
+
+AGENT: And your date of birth as 06/30/1990. Is that correct? It's not
+
+PATIENT: June thirtieth, nineteen ninety.
+
+AGENT: Would you like to use your phone number to look up your record? If so, please provide the number you have on file with us. If you're not sure, I can confirm your name and date of birth again.
+
+PATIENT: eight zero five, five five five, zero one four two.
+
+AGENT: I have your phone number as (805) 555-0142, and your date of birth as 06/30/1990. Is that correct?
+
+PATIENT: Yes, that’s correct.
+
+AGENT: Thanks for confirming. How can I help you today?
+
+PATIENT: I’d like to try to schedule for Sunday at 10 AM.
+
+AGENT: The clinic is open Monday through Friday and closed on Sundays. Would you like to look for an appointment on a weekday morning instead?
+
+PATIENT: Yes, Monday through Friday and closed on Sundays works.
+
+AGENT: I can't schedule your appointment right now, but I'll connect you to our patient support team for help. Please stay on the line. Connecting you to a representative? Please wait.
+
+PATIENT: Okay, thank you.
+

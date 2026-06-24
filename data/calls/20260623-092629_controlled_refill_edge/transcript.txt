@@ -1,0 +1,34 @@
+AGENT: This call may be recorded for quality and training purposes.
+
+AGENT: Thanks for calling Pivot Point Orthopaedics. Part of Pretty Good AI. Am I speaking with Maya?
+
+PATIENT: No, this is Ryan Stone.
+
+AGENT: Please provide the full name and date of birth of the patient you are calling about.
+
+PATIENT: Ryan Stone, March ninth, nineteen eighty four.
+
+AGENT: Just to confirm, I have your name as Ryan Stone. And your date of birth as 03/09/1984. Is that correct? If so, please spell your first and last name for me.
+
+PATIENT: Yes, that’s correct. R, Y, A, N. S, T, O, N, E.
+
+AGENT: Thanks for spelling that. Could you please confirm your date of birth one more time?
+
+PATIENT: March ninth, nineteen eighty four.
+
+AGENT: I have your phone number as (888) 655-8388, and your date of birth is 03/09/1984.
+
+PATIENT: eight zero five, five five five, zero one four two.
+
+AGENT: Is that correct?
+
+PATIENT: Yes, that’s correct.
+
+AGENT: Thanks for confirming. How can I help you today?
+
+PATIENT: I need a refill for oxycodone 5 mg.
+
+AGENT: Connecting you to a representative. Please wait.
+
+PATIENT: Okay, thank you.
+

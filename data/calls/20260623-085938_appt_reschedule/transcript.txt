@@ -1,0 +1,34 @@
+AGENT: This call may be recorded for quality and training purposes.
+
+AGENT: Thanks for calling PivotPoint Orthopaedics. Part of Pretty Good AI. Am I speaking with Maia?
+
+PATIENT: No, this is Jordan Lee.
+
+AGENT: Thanks for letting me know, Jordan. Are you calling for yourself or for someone else today?
+
+PATIENT: I'm calling for myself today.
+
+AGENT: Please provide your date of birth.
+
+PATIENT: September twenty second, nineteen eighty six.
+
+AGENT: Just to confirm, I have your name as Jordan Lee and your date of birth as 09/22/1986. Is that correct? If so, could you please spell your first and last name for me?
+
+PATIENT: Yes, that’s correct. J, O, R, D, A, N. L, E, E.
+
+AGENT: Would you like to use your phone number to look up your record? If so, please provide the number you have on file with us. If you're not sure, I can confirm your name and date of birth again. Which would you prefer?
+
+PATIENT: eight zero five, five five five, zero one four two.
+
+AGENT: I have your phone number as (805) 555-0142, and your date of birth as September September twenty second nineteen eighty six. Is that correct?
+
+PATIENT: Yes, that’s correct.
+
+AGENT: Thanks for confirming. How can I help you today?
+
+PATIENT: I’d like to reschedule an existing appointment.
+
+AGENT: I'm unable to reach reschedule your appointment right now. I can connect you to our patient support team. Would you like me to transfer you, or would you prefer a callback from the clinic?
+
+PATIENT: Okay, thank you.
+

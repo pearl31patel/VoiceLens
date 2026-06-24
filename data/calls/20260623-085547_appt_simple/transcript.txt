@@ -1,0 +1,34 @@
+AGENT: This call may be recorded for quality and training purposes.
+
+AGENT: Thanks for calling PivotPoint Orthopaedics. Part of Pretty Good AI. Am I speaking with Maya?
+
+PATIENT: No, this is Evan Miller.
+
+AGENT: Thanks, Evan. Are you calling for yourself or for someone else today?
+
+PATIENT: I'm calling for myself today.
+
+AGENT: Please provide your date of birth.
+
+PATIENT: April eighteenth, nineteen ninety one.
+
+AGENT: I have your name as Evan Miller. And your date of birth as 04/18/1991. Could you please spell your first and last name to make sure I have it correct?
+
+PATIENT: E, V, A, N. M, I, L, L, E, R.
+
+AGENT: Would you like to use your phone number to look up your record? If so, please provide the number you have on file with us. If you're not sure, I can confirm your name and date of birth again. Which would you prefer?
+
+PATIENT: eight zero five, five five five, zero one four two.
+
+AGENT: I have your phone number as (805) 555-0142, and your date of birth is 04/18/1991. Is that correct?
+
+PATIENT: Yes, that’s correct.
+
+AGENT: Thanks for confirming. How can I help you today?
+
+PATIENT: I’d like to book a new patient appointment for a sore throat.
+
+AGENT: Connecting you to a representative. Please wait.
+
+PATIENT: Okay, thank you.
+

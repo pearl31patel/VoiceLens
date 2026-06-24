@@ -1,0 +1,46 @@
+AGENT: This call may be recorded for quality and training purposes.
+
+AGENT: Thanks for calling PivotPoint Orthopedics. Part of Pretty Good AI. Am I speaking with Maya?
+
+PATIENT: No, this is Samuel Morgan.
+
+AGENT: Are you calling for yourself or for someone else today?
+
+PATIENT: I'm calling for myself today.
+
+AGENT: Please provide your date of birth.
+
+PATIENT: January eighth, nineteen eighty nine.
+
+AGENT: Just to confirm, I have your name as Samuel Morgan and your date of birth as 01/08/1989. Is that correct? If so, could you please spell your first and last
+
+PATIENT: Yes, that’s correct. S, A, M, U, E, L. M, O, R, G, A, N.
+
+AGENT: name for me?
+
+PATIENT: S, A, M, U, E, L. M, O, R, G, A, N.
+
+AGENT: Would you like to use your phone number to look up your records? If so, please provide the number you have on file with us. If you're not sure, I can confirm your name and date of birth again and instead. Which would you prefer?
+
+PATIENT: eight zero five, five five five, zero one four two.
+
+AGENT: I have your phone number as (805) 555-0142, and your date of birth as 01/08/1989. Is that correct?
+
+PATIENT: Yes, that’s correct.
+
+AGENT: Please confirm your date of birth one more time.
+
+PATIENT: January eighth, nineteen eighty nine.
+
+AGENT: Please state your date of birth using numbers. For example, month, day, and year.
+
+PATIENT: January eighth, nineteen eighty nine.
+
+AGENT: Connecting you to a representative. Please wait.
+
+PATIENT: Okay, thank you.
+
+AGENT: Hello. You've reached the Pretty Good AI test line. Goodbye.
+
+PATIENT: Okay, thank you.
+
